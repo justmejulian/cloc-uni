@@ -1,0 +1,3 @@
+https://github.engineering.zhaw.ch/vissejul/MKR
+https://github.engineering.zhaw.ch/vissejul/iot1
+https://github.engineering.zhaw.ch/vissejul/IE_SKB
