@@ -1,3 +1,13 @@
 https://github.engineering.zhaw.ch/vissejul/MKR
 https://github.engineering.zhaw.ch/vissejul/iot1
 https://github.engineering.zhaw.ch/vissejul/IE_SKB
+https://github.engineering.zhaw.ch/vissejul/markdoc
+https://github.engineering.zhaw.ch/vissejul/IS_G16
+https://github.engineering.zhaw.ch/vissejul/CTIT2
+https://github.engineering.zhaw.ch/vissejul/NMIT2
+https://github.engineering.zhaw.ch/vissejul/ADS
+https://github.engineering.zhaw.ch/vissejul/PSIT3_HS17_IT16_Gruppe6
+https://github.engineering.zhaw.ch/vissejul/PROG2-lab-IT16aWIN
+https://github.engineering.zhaw.ch/bachmdo2/KI
+https://github.engineering.zhaw.ch/bachmdo2/Turing
+https://github.engineering.zhaw.ch/emberrap/metu
