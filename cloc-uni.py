@@ -2,17 +2,20 @@ from os import rename, listdir
 import subprocess
 
 fname = 'dirs.txt'
+foutputname = 'count.txt'
 
 outputfolder = "counts"
 subprocess.run(['mkdir', outputfolder] )
 
 
+
+print ("Read all dirs and count lines of code:")
 crs = open(fname, "r")
 dirnames = []
 for raw in crs :
     dirnames.append(raw.strip())
 
-print ("Dirs found:")
+print ("Dirs:")
 print (dirnames)
 
 for name in dirnames:
