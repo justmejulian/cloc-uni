@@ -1,0 +1,10 @@
+language,subjects,fileCount,code
+C,"['BSY', 'PROG', 'CTIT1', 'CTIT2']",177,12172
+JavaScript,"['justmejulian', 'markdoc', 'ipc-zurich', 'zhawo', 'iot1', 'react_flux_boilerplate', 'KI', 'PSIT3_HS17_IT16_Gruppe6', 'IE_SKB']",154,21048
+CSS,"['justmejulian', 'markdoc', 'ipc-zurich', 'PROG', 'KI']",8,2227
+HTML,"['justmejulian', 'markdoc', 'ipc-zurich', 'zhawo', 'PROG', 'react_flux_boilerplate', 'KI', 'CTIT1', 'IE_SKB', 'CTIT2']",68,20234
+Java,"['IS_G16', 'ADS', 'MKR', 'Turing', 'PROG', 'PSIT3_HS17_IT16_Gruppe6', 'IE_SKB']",211,24701
+Python,"['MKR', 'iot1', 'KI', 'IE_SKB']",57,3365
+Sass,"['markdoc', 'zhawo', 'KI', 'IE_SKB']",39,1775
+SQL,['DAB'],34,878
+Assembly,"['CTIT1', 'CTIT2']",28,2777
