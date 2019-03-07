@@ -5,8 +5,6 @@ During my studies at ZHAW I was introduced to to many different languages. But w
 I was interested to see **how much** I had programmed with a given language. So I wrote a python script that cloned all my repositories from the school [GitHub Enterprise](!https://github.engineering.zhaw.ch/) and then counted the lines of code.
 I then took that data and ploted it.
 
-> pip install plotly
-
 Output: 07.02.2019
 
 ![Plot](plot.png)
