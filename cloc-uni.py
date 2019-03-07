@@ -15,15 +15,18 @@ dirnames = []
 for raw in crs :
     dirnames.append(raw.strip())
 
-print ("Dirs:")
+print ("All repositories:")
 print (dirnames)
+print ("")
 
 for name in dirnames:
     dirname = name.split("/")
     dirname = dirname[len(dirname)-1]
-    print(dirname)
+    print("__________ "+dirname+" __________")
 
-    print ("Counting lines in...", name)
+    print ("Cloning:", name)
     subprocess.run(['git','clone', name])
+    print ("Counting lines in:", name)
     subprocess.run(['cloc',dirname, "--out", outputfolder+"/"+dirname+".txt"] )
+    print ("Removing:", name)
     subprocess.run(['rm',"-f","-r", dirname] )
